@@ -1,0 +1,6 @@
+*.pyc
+models
+notebook
+local
+*.condor
+delegate.sh
