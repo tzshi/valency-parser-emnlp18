@@ -4,11 +4,11 @@ This is the repo for our EMNLP 2018 paper ["Valency-Augmented Dependency Parsing
 
 # Requirements
 
-Cython
-numpy
-fire
-tqdm
-DyNet (tested with commit 740a9626a13a2732544de142e256ad0d0a166658)
+- Cython
+- numpy
+- fire
+- tqdm
+- DyNet (tested with commit 740a9626a13a2732544de142e256ad0d0a166658)
 
 # Note
 
